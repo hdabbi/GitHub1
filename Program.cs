@@ -8,6 +8,7 @@ namespace GitHub1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello world 2!");
+            Console.WriteLine("Hemu is Super Super Cool");
         }
     }
 }
