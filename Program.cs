@@ -10,6 +10,7 @@ namespace GitHub1
             Console.WriteLine("Hello world 2!");
             Console.WriteLine("Hemu is Super Super Cool");
             Console.WriteLine("Hemu is Super women!!");
+            Console.WriteLine("Best group ever!");
 
         }
     }
